@@ -2,13 +2,6 @@ package com.example.jaminhu.airkeyboard;
 
 public class MyPlayground {
 
-    public static String chooseBestWord(String nGramWindow){
-        String bestWord;
-
-
-        return bestWord;
-    }
-
     public static String getFingerSequence(String originalWord){
 
         String word = originalWord.toLowerCase();
